@@ -121,10 +121,7 @@ Hands-on exposure to threat simulation, security log analysis, and SOC protocol 
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=onesatyaprakash&show_icons=true&theme=dark&hide_border=true&count_private=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onesatyaprakash&layout=compact&theme=dark&hide_border=true" width="40%"/>
-</p>
+- Comming soon....
 
 ---
 
