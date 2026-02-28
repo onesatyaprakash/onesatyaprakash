@@ -140,7 +140,7 @@ Hands-on exposure to threat simulation, security log analysis, and SOC protocol 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyaprakashprajapati">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/onesatyaprakash">LinkedIn</a> •
   <a href="https://tryhackme.com/p/onesatyaprakash">TryHackMe</a> •
-  <a href="mailto:s.p.prajapati1998@gmail.com">Email</a>
+  <a href="mailto:s.p.prajapati1998+github@gmail.com">Email</a>
 </p>
