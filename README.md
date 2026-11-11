@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a cybersecurity professional with **3+ years of financial services operations experience** at Sun Life Financial, actively transitioning into SOC and Blue Team roles. I combine hands-on offensive and defensive security skills with a strong quantitative background in Business Economics and Econometrics.
+I'm a cybersecurity professional with **3+ years of financial services operations experience** at Sun Life Financial, actively transitioning into GRC, SOC and Blue Team roles. I combine hands-on offensive and defensive security skills with a strong quantitative background in Business Economics and Econometrics.
 
 I don't just collect certifications — I build real skills in real labs.
 
