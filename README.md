@@ -1,5 +1,5 @@
 <h1 align="center">Satya Prakash Prajapati</h1>
-<h3 align="center">Cybersecurity Analyst | SOC & Blue Team | Digital Forensics | Threat Intelligence</h3>
+<h3 align="center">Cybersecurity Analyst | GRC | SOC & Blue Team | Digital Forensics | Research Analyst</h3>
 <h4 align="center">New Delhi, India</h4>
 
 <p align="center">
