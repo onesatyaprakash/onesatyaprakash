@@ -50,13 +50,6 @@ Programming               →  Python (Pandas, NumPy), SQL (fundamentals)
 
 > *Each write-up documents a real investigation from my lab environment — tools used, methodology, findings, and the defender's perspective.*
 
-| # | Write-Up | Category | Difficulty |
-|---|----------|----------|------------|
-| 01 | [Threat Hunting with YARA — Detection Rule Analysis](./threat-intelligence/yara-threat-hunting.md) | Threat Intelligence | Medium |
-| 02 | [PaperCut CVE-2023-27350 — RCE Exploitation & SOC Detection](./vulnerability-analysis/papercut-cve-2023-27350.md) | Vulnerability Analysis | Medium |
-| 03 | [Phishing Email Investigation — Header Analysis & IOC Extraction](./phishing-analysis/phishing-fundamentals.md) | Phishing Analysis | Easy |
-| 04 | [Splunk SIEM Investigation — Malicious Activity Detection](./siem-investigations/splunk-benign.md) | SIEM | Medium |
-
 > 🔄 *Portfolio actively updated — new write-ups added weekly*
 
 ---
