@@ -22,9 +22,9 @@ I'm a cybersecurity professional with **3+ years of financial services operation
 
 I don't just collect certifications — I build real skills in real labs.
 
-- 🏆 **Top 5% globally on TryHackMe** — 108 rooms completed across SOC, DFIR, threat intel, network analysis, and offensive security
-- 🔵 Currently focused on **Blue Team | SOC Tier 1 | Incident Response**
-- 🌏 Targeting **SOC Analyst roles** in India and the Gulf region
+- 🏆 **Top 3% globally on TryHackMe**
+- 🔵 Currently focused on ** GRC | Blue Team | SOC Tier 1 | Incident Response**
+- 🌏 Targeting **GRC | BFSI** in India and the Gulf region
 - 📊 Background in **financial services data operations** — domain expertise in BFSI security
 - 🔬 Building a public portfolio of **security investigation write-ups** (this repository)
 
@@ -46,21 +46,9 @@ Programming               →  Python (Pandas, NumPy), SQL (fundamentals)
 
 ---
 
-## 📂 Portfolio — Security Investigation Write-Ups
-
-> *Each write-up documents a real investigation from my lab environment — tools used, methodology, findings, and the defender's perspective.*
-
-> 🔄 *Portfolio actively updated — new write-ups added weekly*
-
----
-
 ## 🏆 TryHackMe Progress
 
-<p align="left">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/onesatyaprakash.png" alt="TryHackMe Badge"/>
-</p>
-
-**Stats:** Top 5% Globally &nbsp;|&nbsp; 108 Rooms Completed &nbsp;|&nbsp; 11 Badges &nbsp;|&nbsp; Rank #100,651
+**Stats:** Top 3% Globally 
 
 **Key paths & topics completed:**
 - SOC Fundamentals, Junior Security Analyst, Defensive Security
@@ -109,12 +97,6 @@ Hands-on exposure to threat simulation, security log analysis, and SOC protocol 
 
 - **B.A. (Honours) Business Economics** — University of Delhi | First Division | 2018–2021
 - **M.A. Economics** — IGNOU | Econometrics, Quantitative Methods, Macroeconomic Analysis | 2022–2024
-
----
-
-## 📊 GitHub Stats
-
-- Comming soon....
 
 ---
 
